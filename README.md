@@ -1,7 +1,5 @@
 # 🎗️ Breast Cancer Clustering Analysis
 
-![Clustering Visualization](https://via.placeholder.com/800x400.png?text=Clustering+Visualization) *(replace with your actual visualization)*
-
 ## 🔍 Overview
 This project applies advanced unsupervised machine learning techniques to identify meaningful patterns in breast cancer diagnostic data through clustering analysis. The goal is to discover natural groupings in the data that could lead to better understanding of cancer subtypes or progression patterns.
 
